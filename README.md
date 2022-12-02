@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes. -->
 <h3 align="center">A passionate cyber security engineer</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on Security Researcher.
 

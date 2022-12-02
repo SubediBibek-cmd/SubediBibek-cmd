@@ -41,5 +41,5 @@ You can click the Preview link to take a look at your changes. -->
 
 ### Try Hack Me Certificate
 
-<a href="https://tryhackme.com/p/iambibeksubedi" target="blank"><img align="left" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S09TPAXKAH.png" alt="subedibibek" height="350" width="490" /></a> 
-<a href="https://tryhackme.com/p/iambibeksubedi" target="blank"><img align="right" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VD4FTVDGPW.png" alt="subedibibek" height="350" width="490" /></a>
+<a href="https://tryhackme.com/p/iambibeksubedi" target="blank"><img align="left" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S09TPAXKAH.png" alt="subedibibek" height="350" width="480" /></a> 
+<a href="https://tryhackme.com/p/iambibeksubedi" target="blank"><img align="right" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VD4FTVDGPW.png" alt="subedibibek" height="350" width="480" /></a>

@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenittam" alt="thenittam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thenittam" target="blank"><img src="https://img.shields.io/twitter/follow/thenittam?logo=twitter&style=for-the-badge" alt="thenittam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thenittam" target="blank"><img src="https://img.shields.io/twitter/follow/subedibibek2?logo=twitter&style=for-the-badge" alt="thenittam" /></a> </p>
 
 - 🔭 I’m currently working on Security Researcher.
 

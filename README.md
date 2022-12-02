@@ -37,4 +37,4 @@ You can click the Preview link to take a look at your changes. -->
 
 ### Try Hack Me Certificate
 
-<a href="https://tryhackme.com/p/iambibeksubedi" target="blank"><img align="center" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S09TPAXKAH.png" alt="subedibibek" height="130" width="140" /></a>
+<a href="https://tryhackme.com/p/iambibeksubedi" target="blank"><img align="center" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S09TPAXKAH.png" alt="subedibibek" height="1030" width="1080" /></a>

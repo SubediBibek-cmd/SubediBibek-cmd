@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes. -->
 <h3 align="center">A passionate cyber security engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd" alt="thenittam" /></a> </p>
-<p align="left"> <a href="https://twitter.com/SubediBibek2" target="blank"><img src="https://img.shields.io/twitter/follow/thenittam?logo=twitter&style=for-the-badge" alt="SubediBibek-cmd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SubediBibek2" target="blank"><img src="https://img.shields.io/twitter/follow/subedibibek?logo=twitter&style=for-the-badge" alt="SubediBibek-cmd" /></a> </p>
 
 - 🔭 I’m currently working on Security Researcher.
 

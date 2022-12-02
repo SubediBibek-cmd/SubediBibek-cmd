@@ -37,6 +37,4 @@ You can click the Preview link to take a look at your changes. -->
 
 ### Try Hack Me profile
 
-<a href="https://tryhackme.com/p/iambibeksubedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subedibibek" height="30" width="40" /></a>
-
-<a href="https://tryhackme.com/p/subedibibek000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subedibibek" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/iambibeksubedi" target="blank"><img align="center" src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S09TPAXKAH.png" alt="subedibibek" height="30" width="40" /></a>

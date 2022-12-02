@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes. -->
 <h1 align="center">Hi 👋, I'm Bibek Subedi #ykbipras</h1>
 <h3 align="center">A passionate cyber security engineer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=subedibibek-cmd)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on Security Researcher.
 

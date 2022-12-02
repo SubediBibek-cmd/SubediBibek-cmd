@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes. -->
 - ⚡ Fun fact **I think I am not funny**
 
 <h2>GitHub Status ⭐️ </h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=V35HR4J&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=subedibibek-cmd;show_icons=true" alt="GitHub Stats"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

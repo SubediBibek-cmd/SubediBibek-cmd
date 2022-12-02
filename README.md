@@ -41,15 +41,9 @@ You can click the Preview link to take a look at your changes. -->
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" srcset="">
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     </a
-    </a>
-    <a href=https://dart.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
     </a>
     <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img
             src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"

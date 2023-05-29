@@ -4,11 +4,11 @@ You can click the Preview link to take a look at your changes. -->
 <h1 align="left">Hi 👋, I'm Bibek Subedi #ykbipras</h1>
 <h3 align="left">A passionate cyber security engineer</h3>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&column=6"><img src="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&theme=buddhism&column=6" alt="subedibibek"/></a></p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&column=6"><img src="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&theme=buddhism&column=8" alt="subedibibek"/></a></p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&column=6"><img src="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&column=6" alt="subedibibek"/></a></p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&column=6"><img src="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&column=8" alt="subedibibek"/></a></p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&column=6"><img src="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&theme=matrix&column=6" alt="subedibibek" /></a></p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&column=6"><img src="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&theme=matrix&column=8" alt="subedibibek" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/SubediBibek2" target="blank"><img src="https://img.shields.io/twitter/follow/subedibibek?logo=twitter&style=for-the-badge" alt="SubediBibek-cmd" /></a></p>
 

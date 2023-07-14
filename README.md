@@ -2,7 +2,7 @@
 You can click the Preview link to take a look at your changes. -->
 
 <h1 align="left">Hi 👋, I'm Bibek Subedi #ykbipras</h1>
-<h3 align="left">A passionate cyber security engineer</h3>
+<h3 align="left">A Cyber Security Engineer and Researcher</h3>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&column=6"><img src="https://github-profile-trophy.vercel.app/?username=SubediBibek-cmd&theme=buddhism&column=8" alt="subedibibek"/></a></p>
 
@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes. -->
 
 <p align="left"> <a href="https://twitter.com/SubediBibek2" target="blank"><img src="https://img.shields.io/twitter/follow/subedibibek?logo=twitter&style=for-the-badge" alt="SubediBibek-cmd" /></a></p>
 
-- 🔭 I’m currently working on Security Researcher.
+- 🔭 I’m currently working as Security Engineer and Researcher.
 - 👨‍💻 All of my projects are available at [https://github.com/SubediBibek-cmd?tab=repositories](https://github.com/SubediBibek-cmd?tab=repositories)
 - 📝 I regularly write articles on [https://medium.com/@subedibibek000](https://medium.com/@subedibibek000)
-- 💬 Ask me about **Cyber Security, Networking, Security Operation Center**
+- 💬 Ask me about **Cyber Security, Cyber Defense, Cyber Crime Investigation, Digital Forensic, Networking, Security Operation Center**
 - 📫 How to reach me **subedibibek000@protonmail.com**
-- ⚡ Fun fact **I think I am not funny**
+- ⚡ Fun fact **I think I am fan of God Har Har Mahadev, Jay Shamboo**
 
 <h2>GitHub Status ⭐️ </h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=SubediBibek-cmd&amp;show_icons=true" alt="GitHub Stats"></p>
